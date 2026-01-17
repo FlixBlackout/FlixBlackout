@@ -8,7 +8,7 @@ AI-powered systems for security and automation
 
 Improving system design, databases, and performance
 
-🧠 Tech Stack
+<h1>🧠 Tech Stack</h1>
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,html,css,javascript" /> </p>
 
 Backend: Java, Spring Boot, Spring MVC, JDBC, Hibernate, JPA, AOP
