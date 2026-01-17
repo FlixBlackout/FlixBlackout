@@ -1,4 +1,5 @@
-🧑‍💻 Harshvardhan Pankaj
+<h1 align="center">🧑‍💻 Harshvardhan Pankaj</h1>
+<br/>
 Software Engineer (Developer / Full-Stack Engineer)
 
 Fresher | Backend-Focused | Java + Spring
